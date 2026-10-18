@@ -1,0 +1,19 @@
+# Executables and complete packages are distributed through Releases.
+app/
+*.exe
+*.dll
+*.zip
+*.pdb
+# Local secrets, browser sessions and logs
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.log
+ChromeProfile/
+TouchpadGestureBackup.json
+EdgeSwipePolicyBackup.json
+config.local.json
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+  "Url": "https://example.com/",
+  "BrowserPath": null,
+  "KillExplorer": false,
+  "RestoreExplorerOnExit": true,
+  "UseModernTouchKeyboard": true,
+  "BlockSystemKeys": true,
+  "DisableMultiFingerTouchpadGestures": true,
+  "StartDelaySeconds": 0,
+  "RestartDelaySeconds": 3,
+  "ChromeProfileDirectory": "%LOCALAPPDATA%\\WindowsKioskLauncher\\ChromeProfile",
+  "AdditionalChromeArguments": [
+    "--disable-pinch",
+    "--overscroll-history-navigation=0",
+    "--disable-features=TranslateUI"
+  ]
+}
